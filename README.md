@@ -11,14 +11,6 @@
 **청년톡톡**은 청년들을 위한 맞춤형 정보와 커뮤니티를 제공하는 iOS 및 Android 앱 서비스입니다. 취업, 창업, 문화생활 등 여러 분야에서 청년들이 필요로 하는 지원 정책과 프로그램 정보를 쉽게 제공하며, 사용자들이 자신의 경험을 공유할 수 있는 커뮤니티 기능을 갖추고 있습니다. 향후 청년들의 요구에 따라 청년 공간 등 다양한 기능으로 확장될 예정입니다. 청년들의 삶에 실질적인 도움을 주고자 하는 플랫폼으로의 성장을 목표로 하고 있습니다.
 
 <br><br>
-## 앱 다운 링크
-- **android**
-    - [구글 스토어 다운 받기](https://play.google.com/store/apps/details?id=com.youth.yongproject.app&hl=ko)
-- **ios**
-  - 24년 12월 내 출시 예정
-
-
-<br><br>
 ## 프로젝트 소개
 - **개발 기간** : 2024.04 ~ ing
 - **백엔드 팀원**: [신은혜](https://github.com/HideOnCodec), [한슬기](https://github.com/ssggii), [허은정](https://github.com/EunjeongHeo)
